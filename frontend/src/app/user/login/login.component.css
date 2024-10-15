@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  height: 100vh; 
+}
+
+.side-image {
+  width: 50%;
+  overflow: hidden;
+  background-image: url('../../../assets/images/ui.png');
+  display:flex;
+  align-items: center;
+}
+
+.side-image img {
+  width: 100%;
+}
+
+.signIn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50%;
+}
+
+mat-card {
+  max-width: 400px;
+  width: 100%;
+}
+
+.full-width {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.mat-mdc-raised-button:not(:disabled) {
+  background-color: #4285f4;
+  color: aliceblue;
+}
+
+.fp {
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.head{
+  margin-bottom: 10px;
+}

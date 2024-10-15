@@ -1,0 +1,10 @@
+<header class="top-bar">
+    <div class="greeting">
+      <h1>Hi,{{username}}</h1>
+    </div>
+    <div class="profile">
+        <img [src]="'https://localhost:7243' + imageUrl" class="profile-picture" *ngIf="imageUrl">
+        <img src="image.png" class="profile-picture" *ngIf="!imageUrl">
+        <span>{{username}}</span>
+    </div>
+  </header>

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\UserManagement\\UserManagement\\wwwroot\\images\\Union.png",
+      "PackagePath": "staticwebassets\\images\\Union.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UserManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UserManagement.props",
+      "PackagePath": "build\\UserManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UserManagement.props",
+      "PackagePath": "buildMultiTargeting\\UserManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UserManagement.props",
+      "PackagePath": "buildTransitive\\UserManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

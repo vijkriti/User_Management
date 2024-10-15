@@ -1,0 +1,42 @@
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\bin\Debug\net8.0\DataContext.deps.json
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\bin\Debug\net8.0\DataContext.runtimeconfig.json
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\bin\Debug\net8.0\DataContext.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\bin\Debug\net8.0\DataContext.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\obj\Debug\net8.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\obj\Debug\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\obj\Debug\net8.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\obj\Debug\net8.0\DataContext.AssemblyInfo.cs
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\obj\Debug\net8.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\obj\Debug\net8.0\DataContext.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\obj\Debug\net8.0\refint\DataContext.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\obj\Debug\net8.0\DataContext.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\obj\Debug\net8.0\DataContext.genruntimeconfig.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\Data Context\obj\Debug\net8.0\ref\DataContext.dll
+D:\Final Task\UserManagement\Data Context\bin\Debug\net8.0\DataContext.deps.json
+D:\Final Task\UserManagement\Data Context\bin\Debug\net8.0\DataContext.runtimeconfig.json
+D:\Final Task\UserManagement\Data Context\bin\Debug\net8.0\DataContext.dll
+D:\Final Task\UserManagement\Data Context\bin\Debug\net8.0\DataContext.pdb
+D:\Final Task\UserManagement\Data Context\obj\Debug\net8.0\DataContext.csproj.AssemblyReference.cache
+D:\Final Task\UserManagement\Data Context\obj\Debug\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Task\UserManagement\Data Context\obj\Debug\net8.0\DataContext.AssemblyInfoInputs.cache
+D:\Final Task\UserManagement\Data Context\obj\Debug\net8.0\DataContext.AssemblyInfo.cs
+D:\Final Task\UserManagement\Data Context\obj\Debug\net8.0\DataContext.csproj.CoreCompileInputs.cache
+D:\Final Task\UserManagement\Data Context\obj\Debug\net8.0\DataContext.dll
+D:\Final Task\UserManagement\Data Context\obj\Debug\net8.0\refint\DataContext.dll
+D:\Final Task\UserManagement\Data Context\obj\Debug\net8.0\DataContext.pdb
+D:\Final Task\UserManagement\Data Context\obj\Debug\net8.0\DataContext.genruntimeconfig.cache
+D:\Final Task\UserManagement\Data Context\obj\Debug\net8.0\ref\DataContext.dll
+E:\UserManagement\Data Context\bin\Debug\net8.0\DataContext.deps.json
+E:\UserManagement\Data Context\bin\Debug\net8.0\DataContext.runtimeconfig.json
+E:\UserManagement\Data Context\bin\Debug\net8.0\DataContext.dll
+E:\UserManagement\Data Context\bin\Debug\net8.0\DataContext.pdb
+E:\UserManagement\Data Context\obj\Debug\net8.0\DataContext.csproj.AssemblyReference.cache
+E:\UserManagement\Data Context\obj\Debug\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\UserManagement\Data Context\obj\Debug\net8.0\DataContext.AssemblyInfoInputs.cache
+E:\UserManagement\Data Context\obj\Debug\net8.0\DataContext.AssemblyInfo.cs
+E:\UserManagement\Data Context\obj\Debug\net8.0\DataContext.csproj.CoreCompileInputs.cache
+E:\UserManagement\Data Context\obj\Debug\net8.0\DataContext.dll
+E:\UserManagement\Data Context\obj\Debug\net8.0\refint\DataContext.dll
+E:\UserManagement\Data Context\obj\Debug\net8.0\DataContext.pdb
+E:\UserManagement\Data Context\obj\Debug\net8.0\DataContext.genruntimeconfig.cache
+E:\UserManagement\Data Context\obj\Debug\net8.0\ref\DataContext.dll

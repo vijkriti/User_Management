@@ -1,0 +1,55 @@
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceImplementation.deps.json
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceImplementation.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceImplementation.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\bin\Debug\net8.0\DataContext.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceInterfaces.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceInterfaces.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\bin\Debug\net8.0\DataContext.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.csproj.AssemblyReference.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.AssemblyInfoInputs.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.AssemblyInfo.cs
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.csproj.CoreCompileInputs.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceI.03E1C3D2.Up2Date
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\obj\Debug\net8.0\refint\ServiceImplementation.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceImplementation\obj\Debug\net8.0\ref\ServiceImplementation.dll
+D:\Final Task\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceImplementation.deps.json
+D:\Final Task\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceImplementation.dll
+D:\Final Task\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceImplementation.pdb
+D:\Final Task\UserManagement\ServiceImplementation\bin\Debug\net8.0\DataContext.dll
+D:\Final Task\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceInterfaces.dll
+D:\Final Task\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceInterfaces.pdb
+D:\Final Task\UserManagement\ServiceImplementation\bin\Debug\net8.0\DataContext.pdb
+D:\Final Task\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.csproj.AssemblyReference.cache
+D:\Final Task\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Task\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.AssemblyInfoInputs.cache
+D:\Final Task\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.AssemblyInfo.cs
+D:\Final Task\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.csproj.CoreCompileInputs.cache
+D:\Final Task\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceI.03E1C3D2.Up2Date
+D:\Final Task\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.dll
+D:\Final Task\UserManagement\ServiceImplementation\obj\Debug\net8.0\refint\ServiceImplementation.dll
+D:\Final Task\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.pdb
+D:\Final Task\UserManagement\ServiceImplementation\obj\Debug\net8.0\ref\ServiceImplementation.dll
+D:\Final Task\UserManagement\ServiceImplementation\bin\Debug\net8.0\RepositoryInterfaces.dll
+D:\Final Task\UserManagement\ServiceImplementation\bin\Debug\net8.0\RepositoryInterfaces.pdb
+E:\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceImplementation.deps.json
+E:\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceImplementation.dll
+E:\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceImplementation.pdb
+E:\UserManagement\ServiceImplementation\bin\Debug\net8.0\DataContext.dll
+E:\UserManagement\ServiceImplementation\bin\Debug\net8.0\RepositoryInterfaces.dll
+E:\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceInterfaces.dll
+E:\UserManagement\ServiceImplementation\bin\Debug\net8.0\RepositoryInterfaces.pdb
+E:\UserManagement\ServiceImplementation\bin\Debug\net8.0\ServiceInterfaces.pdb
+E:\UserManagement\ServiceImplementation\bin\Debug\net8.0\DataContext.pdb
+E:\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.csproj.AssemblyReference.cache
+E:\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.AssemblyInfoInputs.cache
+E:\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.AssemblyInfo.cs
+E:\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.csproj.CoreCompileInputs.cache
+E:\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceI.03E1C3D2.Up2Date
+E:\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.dll
+E:\UserManagement\ServiceImplementation\obj\Debug\net8.0\refint\ServiceImplementation.dll
+E:\UserManagement\ServiceImplementation\obj\Debug\net8.0\ServiceImplementation.pdb
+E:\UserManagement\ServiceImplementation\obj\Debug\net8.0\ref\ServiceImplementation.dll

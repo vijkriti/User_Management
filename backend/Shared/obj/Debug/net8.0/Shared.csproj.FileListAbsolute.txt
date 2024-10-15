@@ -1,0 +1,23 @@
+D:\Final Task\UserManagement\Shared\bin\Debug\net8.0\Shared.deps.json
+D:\Final Task\UserManagement\Shared\bin\Debug\net8.0\Shared.dll
+D:\Final Task\UserManagement\Shared\bin\Debug\net8.0\Shared.pdb
+D:\Final Task\UserManagement\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Task\UserManagement\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+D:\Final Task\UserManagement\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+D:\Final Task\UserManagement\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+D:\Final Task\UserManagement\Shared\obj\Debug\net8.0\Shared.dll
+D:\Final Task\UserManagement\Shared\obj\Debug\net8.0\refint\Shared.dll
+D:\Final Task\UserManagement\Shared\obj\Debug\net8.0\Shared.pdb
+D:\Final Task\UserManagement\Shared\obj\Debug\net8.0\ref\Shared.dll
+E:\UserManagement\Shared\bin\Debug\net8.0\Shared.deps.json
+E:\UserManagement\Shared\bin\Debug\net8.0\Shared.dll
+E:\UserManagement\Shared\bin\Debug\net8.0\Shared.pdb
+E:\UserManagement\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\UserManagement\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+E:\UserManagement\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+E:\UserManagement\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+E:\UserManagement\Shared\obj\Debug\net8.0\Shared.dll
+E:\UserManagement\Shared\obj\Debug\net8.0\refint\Shared.dll
+E:\UserManagement\Shared\obj\Debug\net8.0\Shared.pdb
+E:\UserManagement\Shared\obj\Debug\net8.0\ref\Shared.dll
+E:\UserManagement\Shared\obj\Debug\net8.0\Shared.csproj.AssemblyReference.cache

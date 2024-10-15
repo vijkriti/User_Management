@@ -1,0 +1,45 @@
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\bin\Debug\net8.0\ServiceInterfaces.deps.json
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\bin\Debug\net8.0\ServiceInterfaces.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\bin\Debug\net8.0\ServiceInterfaces.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\bin\Debug\net8.0\DataContext.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\bin\Debug\net8.0\DataContext.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.csproj.AssemblyReference.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.AssemblyInfoInputs.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.AssemblyInfo.cs
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceI.DF1E12ED.Up2Date
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\obj\Debug\net8.0\refint\ServiceInterfaces.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ref\ServiceInterfaces.dll
+D:\Final Task\UserManagement\ServiceInterfaces\bin\Debug\net8.0\ServiceInterfaces.deps.json
+D:\Final Task\UserManagement\ServiceInterfaces\bin\Debug\net8.0\ServiceInterfaces.dll
+D:\Final Task\UserManagement\ServiceInterfaces\bin\Debug\net8.0\ServiceInterfaces.pdb
+D:\Final Task\UserManagement\ServiceInterfaces\bin\Debug\net8.0\DataContext.dll
+D:\Final Task\UserManagement\ServiceInterfaces\bin\Debug\net8.0\DataContext.pdb
+D:\Final Task\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.csproj.AssemblyReference.cache
+D:\Final Task\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Task\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.AssemblyInfoInputs.cache
+D:\Final Task\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.AssemblyInfo.cs
+D:\Final Task\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.csproj.CoreCompileInputs.cache
+D:\Final Task\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceI.DF1E12ED.Up2Date
+D:\Final Task\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.dll
+D:\Final Task\UserManagement\ServiceInterfaces\obj\Debug\net8.0\refint\ServiceInterfaces.dll
+D:\Final Task\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.pdb
+D:\Final Task\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ref\ServiceInterfaces.dll
+E:\UserManagement\ServiceInterfaces\bin\Debug\net8.0\ServiceInterfaces.deps.json
+E:\UserManagement\ServiceInterfaces\bin\Debug\net8.0\ServiceInterfaces.dll
+E:\UserManagement\ServiceInterfaces\bin\Debug\net8.0\ServiceInterfaces.pdb
+E:\UserManagement\ServiceInterfaces\bin\Debug\net8.0\DataContext.dll
+E:\UserManagement\ServiceInterfaces\bin\Debug\net8.0\DataContext.pdb
+E:\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.csproj.AssemblyReference.cache
+E:\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.AssemblyInfoInputs.cache
+E:\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.AssemblyInfo.cs
+E:\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.csproj.CoreCompileInputs.cache
+E:\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceI.DF1E12ED.Up2Date
+E:\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.dll
+E:\UserManagement\ServiceInterfaces\obj\Debug\net8.0\refint\ServiceInterfaces.dll
+E:\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ServiceInterfaces.pdb
+E:\UserManagement\ServiceInterfaces\obj\Debug\net8.0\ref\ServiceInterfaces.dll

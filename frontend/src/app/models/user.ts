@@ -1,0 +1,30 @@
+export interface User {
+  userId: number;
+  firstName: string;
+  middleName?: string;
+  lastName: string;
+  gender: string;
+  dateOfJoining: string; 
+  dateOfBirth: string;  
+  email: string;
+  password: string;
+  phone: string;
+  alternatePhone?: string;
+  imgPath?: string;
+  primaryAddress: string;
+  primaryCity: string;
+  primaryState: string;
+  primaryCountry: string;
+  primaryZipCode: string;
+  secondaryAddress?: string;
+  secondaryCity?: string;
+  secondaryState?: string;
+  secondaryCountry?: string;
+  secondaryZipCode?: string;
+  isDeleted?: boolean;
+  isActive?: boolean;
+  createdDate?: Date;
+  lastModified?: Date;
+  resetPasswordToken?: string;
+  resetExpiryToken?: string;
+}

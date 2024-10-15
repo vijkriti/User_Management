@@ -1,0 +1,113 @@
+.dashboard-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin-left: 200px; 
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .stats {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .stat {
+    flex: 1;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .stat.active {
+    background-color: #e6f7ff;
+  }
+  
+  .stat.inactive {
+    background-color: #fffbe6;
+  }
+  
+  .user-list {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .user-list h3 {
+    margin-top: 0;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table th, table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+  }
+  
+
+button {
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: none;
+}
+
+.edit-button {
+  background-color: #4caf50;
+  padding:3px 10px;
+  font-size: 12px;
+}
+
+.edit-button:hover {
+  background-color: #45a049;
+}
+
+.delete-button {
+  background-color: #f44336;
+  padding: 3px 10px;
+  font-size: 12px;
+}
+
+.delete-button:hover {
+  background-color: #e53935;
+}
+
+.export-button {
+  background-color: #2196f3; 
+  padding:10px 15px;
+  font-size: 14px;
+  
+}
+
+.export-button:hover {
+  background-color: #1976d2;
+}
+
+
+.button-container {
+  margin-top: 20px;
+}
+
+.button-container button {
+  margin-right: 10px;
+}
+

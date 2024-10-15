@@ -1,0 +1,51 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+.container {
+    display: flex;
+    height: 100vh; 
+  }
+  
+  .side-image {
+    width: 50%;
+    overflow: hidden;
+    background-image: url('../../../assets/images/ui.png');
+    display:flex;
+    align-items: center;
+  }
+  
+  .side-image img {
+    width: 100%;
+  }
+
+  
+  .sent-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+  }
+  
+  mat-card {
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  p{
+    text-align:center;
+  }
+
+  .fp {
+    margin-bottom: 24px;
+    font-size: small;
+  }
+  

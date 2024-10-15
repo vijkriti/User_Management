@@ -1,0 +1,50 @@
+<div class="container">
+    <div class="side-image">
+      <img src="login.png">
+    </div>
+  
+    <div class="signIn-container">
+      <h1>LOGO</h1>
+      <mat-card>
+        <mat-card-header>
+          <mat-card-title>Sign In</mat-card-title>
+        </mat-card-header>
+        <form [formGroup]="signInForm" (ngSubmit)="onSubmit()">
+          <mat-card-content>
+            <div class="head"><label for="email">Enter your email address</label></div>
+            <mat-form-field appearance="outline" class="full-width">
+              <input matInput id="email" placeholder="Enter Email" formControlName="Email" type="email">
+              <mat-error *ngIf="signInForm.get('Email')?.hasError('required')">
+                Email is required.
+              </mat-error>
+              <mat-error *ngIf="signInForm.get('Email')?.hasError('email')">
+                Enter a valid email address.
+              </mat-error>
+              <mat-error *ngIf="signInForm.get('Email')?.hasError('maxlength')">
+                Email cannot be longer than 100 characters.
+              </mat-error>
+            </mat-form-field>
+  
+
+            <div class="head"><label for="password">Enter your password</label></div>
+            <mat-form-field appearance="outline" class="full-width">
+              <input matInput id="password" placeholder="Password" formControlName="Password" type="password">
+              <mat-error *ngIf="signInForm.get('Password')?.hasError('required')">
+                Password is required.
+              </mat-error>
+              <mat-error *ngIf="signInForm.get('Password')?.hasError('maxlength')">
+                Password cannot be longer than 20 characters.
+              </mat-error>
+            </mat-form-field>
+
+            <div class="fp"><a [routerLink]="['/user/forgot']">Forgot password?</a></div>
+
+            <mat-card-actions>
+              <button mat-raised-button class="full-width" type="submit" [disabled]="signInForm.invalid">Sign In</button>
+            </mat-card-actions>
+          </mat-card-content>
+        </form>
+      </mat-card>
+    </div>
+  </div>
+  

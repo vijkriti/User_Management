@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "cr5cbui6T35lj4s9uQd/0Nj5Um0nNnJugvqRTPO6JnU=",
+  "Source": "UserManagement",
+  "BasePath": "_content/UserManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UserManagement\\wwwroot",
+      "Source": "UserManagement",
+      "ContentRoot": "E:\\UserManagement\\UserManagement\\wwwroot\\",
+      "BasePath": "_content/UserManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\UserManagement\\UserManagement\\wwwroot\\images\\Union.png",
+      "SourceId": "UserManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UserManagement\\UserManagement\\wwwroot\\",
+      "BasePath": "_content/UserManagement",
+      "RelativePath": "images/Union.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Union.png"
+    }
+  ]
+}

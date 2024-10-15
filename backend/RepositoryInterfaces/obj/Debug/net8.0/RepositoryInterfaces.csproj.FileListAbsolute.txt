@@ -1,0 +1,45 @@
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\RepositoryInterfaces.deps.json
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\RepositoryInterfaces.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\RepositoryInterfaces.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\DataContext.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\DataContext.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.csproj.AssemblyReference.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.AssemblyInfoInputs.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.AssemblyInfo.cs
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\Reposito.DE8D9392.Up2Date
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\refint\RepositoryInterfaces.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\ref\RepositoryInterfaces.dll
+D:\Final Task\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\RepositoryInterfaces.deps.json
+D:\Final Task\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\RepositoryInterfaces.dll
+D:\Final Task\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\RepositoryInterfaces.pdb
+D:\Final Task\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\DataContext.dll
+D:\Final Task\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\DataContext.pdb
+D:\Final Task\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.csproj.AssemblyReference.cache
+D:\Final Task\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Task\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.AssemblyInfoInputs.cache
+D:\Final Task\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.AssemblyInfo.cs
+D:\Final Task\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.csproj.CoreCompileInputs.cache
+D:\Final Task\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\Reposito.DE8D9392.Up2Date
+D:\Final Task\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.dll
+D:\Final Task\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\refint\RepositoryInterfaces.dll
+D:\Final Task\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.pdb
+D:\Final Task\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\ref\RepositoryInterfaces.dll
+E:\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\RepositoryInterfaces.deps.json
+E:\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\RepositoryInterfaces.dll
+E:\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\RepositoryInterfaces.pdb
+E:\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\DataContext.dll
+E:\UserManagement\RepositoryInterfaces\bin\Debug\net8.0\DataContext.pdb
+E:\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.csproj.AssemblyReference.cache
+E:\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.AssemblyInfoInputs.cache
+E:\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.AssemblyInfo.cs
+E:\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.csproj.CoreCompileInputs.cache
+E:\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\Reposito.DE8D9392.Up2Date
+E:\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.dll
+E:\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\refint\RepositoryInterfaces.dll
+E:\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\RepositoryInterfaces.pdb
+E:\UserManagement\RepositoryInterfaces\obj\Debug\net8.0\ref\RepositoryInterfaces.dll

@@ -1,0 +1,38 @@
+.top-bar {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+   
+  .greeting h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+  }
+   
+   
+  .profile {
+    display: flex;
+    align-items: center;
+  }
+   
+  .profile span {
+    margin-right: 10px;
+    padding-left: 6px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+   
+  .profile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }

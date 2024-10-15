@@ -1,0 +1,70 @@
+.sidenav {
+    width: 210px;
+    background-color: #007bff;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .sidenav .sidenav-header {
+    padding: 20px;
+    text-align: center;
+    font-size: 22px;
+    border-bottom: 2px solid #0056b3;
+  }
+  
+  .sidenav .sidenav-links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  
+  .sidenav .sidenav-links a {
+    text-decoration: none;
+    color: white;
+    padding: 15px 25px;
+    display: flex;
+    align-items: center;
+    transition: background-color 0.3s, padding-left 0.3s;
+    font-size: 18px;
+  }
+  
+  .sidenav .sidenav-links a:hover {
+    background-color: #0056b3;
+    padding-left: 35px;
+  }
+  
+  .sidenav .sidenav-links a mat-icon {
+    margin-right: 20px;
+    font-size: 1.5em;
+  }
+  
+  .sidenav-footer {
+    margin-top: auto;
+  }
+  
+  .sidenav-footer button {
+    width: 100%; 
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f44336; 
+    color: white; 
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .sidenav-footer button:hover {
+    background-color: #d32f2f; 
+  }
+  
+  .sidenav-footer button:focus {
+    outline: none;
+  }
+

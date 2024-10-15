@@ -1,0 +1,51 @@
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryImplementation.deps.json
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryImplementation.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryImplementation.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\bin\Debug\net8.0\DataContext.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryInterfaces.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryInterfaces.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\bin\Debug\net8.0\DataContext.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.csproj.AssemblyReference.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.AssemblyInfoInputs.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.AssemblyInfo.cs
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.csproj.CoreCompileInputs.cache
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\obj\Debug\net8.0\Reposito.C88CE4C7.Up2Date
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\obj\Debug\net8.0\refint\RepositoryImplementation.dll
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.pdb
+C:\Users\HP DR1000TU\source\repos\UserManagement\RepositoryImplementation\obj\Debug\net8.0\ref\RepositoryImplementation.dll
+D:\Final Task\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryImplementation.deps.json
+D:\Final Task\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryImplementation.dll
+D:\Final Task\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryImplementation.pdb
+D:\Final Task\UserManagement\RepositoryImplementation\bin\Debug\net8.0\DataContext.dll
+D:\Final Task\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryInterfaces.dll
+D:\Final Task\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryInterfaces.pdb
+D:\Final Task\UserManagement\RepositoryImplementation\bin\Debug\net8.0\DataContext.pdb
+D:\Final Task\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.csproj.AssemblyReference.cache
+D:\Final Task\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Task\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.AssemblyInfoInputs.cache
+D:\Final Task\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.AssemblyInfo.cs
+D:\Final Task\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.csproj.CoreCompileInputs.cache
+D:\Final Task\UserManagement\RepositoryImplementation\obj\Debug\net8.0\Reposito.C88CE4C7.Up2Date
+D:\Final Task\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.dll
+D:\Final Task\UserManagement\RepositoryImplementation\obj\Debug\net8.0\refint\RepositoryImplementation.dll
+D:\Final Task\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.pdb
+D:\Final Task\UserManagement\RepositoryImplementation\obj\Debug\net8.0\ref\RepositoryImplementation.dll
+E:\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryImplementation.deps.json
+E:\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryImplementation.dll
+E:\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryImplementation.pdb
+E:\UserManagement\RepositoryImplementation\bin\Debug\net8.0\DataContext.dll
+E:\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryInterfaces.dll
+E:\UserManagement\RepositoryImplementation\bin\Debug\net8.0\RepositoryInterfaces.pdb
+E:\UserManagement\RepositoryImplementation\bin\Debug\net8.0\DataContext.pdb
+E:\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.csproj.AssemblyReference.cache
+E:\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.AssemblyInfoInputs.cache
+E:\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.AssemblyInfo.cs
+E:\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.csproj.CoreCompileInputs.cache
+E:\UserManagement\RepositoryImplementation\obj\Debug\net8.0\Reposito.C88CE4C7.Up2Date
+E:\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.dll
+E:\UserManagement\RepositoryImplementation\obj\Debug\net8.0\refint\RepositoryImplementation.dll
+E:\UserManagement\RepositoryImplementation\obj\Debug\net8.0\RepositoryImplementation.pdb
+E:\UserManagement\RepositoryImplementation\obj\Debug\net8.0\ref\RepositoryImplementation.dll

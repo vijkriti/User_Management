@@ -1,0 +1,23 @@
+<div class="sidenav">
+    <div class="sidenav-header">
+      Integrity Solution
+    </div>
+    <div class="sidenav-links">
+        <a [routerLink]="['/user/dashboard']">
+            <mat-icon>dashboard</mat-icon>
+            Dashboard
+          </a>
+          <a [routerLink]="['/user/add']">
+            <mat-icon>person_add</mat-icon>
+            Add User
+          </a>  
+          <a [routerLink]="['/user/change']">
+            <mat-icon>person_add</mat-icon>
+            Change Password
+          </a>          
+    </div>
+    <div class="sidenav-footer">
+        <button type="submit" (click)="logout()">Logout</button>
+    </div>
+  </div>
+  
